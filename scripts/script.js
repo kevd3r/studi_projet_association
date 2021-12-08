@@ -1,3 +1,3 @@
 $(document).ready(() => {
-  alert('jQuery est prêt à l\'utilisation')
+  console.log('jQuery est prêt à l\'utilisation')
 })
