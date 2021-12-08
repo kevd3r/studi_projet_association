@@ -1,0 +1,7 @@
+#excluding vscode configuration files
+.vscode
+#excluding node_modules 
+node_modules
+#excluding eventual .pdf files
+*.pdf
+
